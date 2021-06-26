@@ -134,9 +134,9 @@ fun PokemonDetailTopSection(
     ){
 
 
-/*
+
         Icon(
-            ImageVector = Icons.Default.ArrowBack,
+            imageVector = Icons.Default.ArrowBack,
             contentDescription = null,
             tint = Color.White,
             modifier = Modifier
@@ -148,7 +148,7 @@ fun PokemonDetailTopSection(
 
         )
 
-*/
+
 
     }
 
